@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/mainProgram/ControlPanel.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/mainProgram/Params.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/mainProgram/HeistToTheMuseum.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/viewer/IDrawViewer.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/viewer/IDrawable.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/viewer/SimDrawer.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/viewer/SimViewer.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/classes/memories/MemException.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/classes/memories/MemFIFO.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/classes/memories/MemObject.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/classes/memories/MemStack.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/monitors/SharedMem.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/interfaces/IReadable.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/interfaces/IWritable.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/viewer/drawings/CanvasDrawing.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/viewer/drawings/PlunderDrawing.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/viewer/drawings/ThiefDrawing.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/viewer/drawings/Drawing.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/viewer/messages/DrawMessage.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/viewer/messages/EraseMessage.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/viewer/messages/ViewerMessage.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/viewer/messages/MoveMessage.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/mainProgram/ThiefThread.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/mainProgram/MasterThread.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/monitors/LogicalClock.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/monitors/Repository.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/logger/LogWriter.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/logger/LogMessage.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/exceptions/ThreadInterruptedException.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/exceptions/OutsideException.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/classes/OrdinaryThief.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/classes/MasterThief.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/classes/Group.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/classes/Room.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/classes/Canvas.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/monitors/Outside.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/interfaces/IOutsideReport.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/interfaces/IMasterOutside.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/interfaces/IThiefOutside.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/monitors/SharedPath.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/interfaces/IPathReport.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/monitors/SharedRoom.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/classes/RoomPath.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/interfaces/IThiefRoom.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/interfaces/IThiefPath.java</file>
+        <file>file:/D:/Estudos/SemestreActual/SD/Práticas/Projetos/Teste/src/interfaces/IRoomReport.java</file>
+    </open-files>
+</project-private>
